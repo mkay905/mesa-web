@@ -1,11 +1,11 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.merasamaaj.merasamaaj",
-      "sha256_cert_fingerprints":
-        ["E4:A9:9E:F5:56:C7:0D:BB:0E:43:54:DA:31:E1:3D:E3:D9:AB:B7:05:96:6C:51:DE:EC:73:C4:24:C5:CB:D4:9C"]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.merasamaaj.merasamaaj",
+    "sha256_cert_fingerprints": [
+      "E4:A9:9E:F5:56:C7:0D:BB:0E:43:54:DA:31:E1:3D:E3:D9:AB:B7:05:96:6C:51:DE:EC:73:C4:24:C5:CB:D4:9C",
+      "06:D1:5F:7E:1B:61:00:E9:CE:BF:31:C9:2E:B8:FE:15:7A:9B:A4:2A:F8:08:55:A0:D1:7E:FE:D5:5E:99:AF:91"
+    ]
   }
-]
+}]
