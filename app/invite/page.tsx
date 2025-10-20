@@ -1,3 +1,5 @@
+//new invite page
+
 export default function InvitePage() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-[#f2f7fc] px-4">
